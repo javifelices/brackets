@@ -8,7 +8,7 @@
     "fs-extra": "0.6.x",
     "async": "0.2.x",
     "request": "2.27.x",
-    "temp": "~0.6.0"
+    "temp": "~0.9.4"
   },
   "devDependencies": {
     "rewire": "1.1.x"
